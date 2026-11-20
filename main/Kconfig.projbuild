@@ -1,0 +1,11 @@
+menu "Wi-Fi del laboratorio"
+
+    config LAB_WIFI_SSID
+        string "SSID"
+        default ""
+
+    config LAB_WIFI_PASSWORD
+        string "Contrasena"
+        default ""
+
+endmenu

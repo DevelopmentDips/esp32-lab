@@ -1,4 +1,4 @@
-/build/
-/sdkconfig
-/sdkconfig.old
-/.venv/
+examples/**/build
+examples/**/sdkconfig.old
+
+examples/**/managed_components/
